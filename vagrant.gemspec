@@ -18,9 +18,9 @@ Gem::Specification.new do |s|
   s.add_dependency "childprocess", "~> 0.3.1"
   s.add_dependency "erubis", "~> 2.7.0"
   s.add_dependency "i18n", "~> 0.6.0"
-  s.add_dependency "json", "~> 1.6.6"
+  s.add_dependency "json", "~> 1.7.1"
   s.add_dependency "log4r", "~> 1.1.9"
-  s.add_dependency "net-ssh", "~> 2.2.2"
+  s.add_dependency "net-ssh", "~> 2.5.2"
   s.add_dependency "net-scp", "~> 1.0.4"
 
   s.add_development_dependency "rake"
